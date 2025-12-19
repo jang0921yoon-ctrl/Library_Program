@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# venv
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Qt / PySide6
+*.qmlc
+*.jsc
+*.pyi
+*.spec
+
+# OS
+.DS_Store
+Thumbs.db
+
+# env secrets
+.env
